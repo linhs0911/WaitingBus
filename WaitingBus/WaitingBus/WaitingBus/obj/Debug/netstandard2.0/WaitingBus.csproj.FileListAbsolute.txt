@@ -1,0 +1,16 @@
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\bin\Debug\netstandard2.0\WaitingBus.deps.json
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\bin\Debug\netstandard2.0\WaitingBus.dll
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.csproj.CoreCompileInputs.cache
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.App.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.MainPage.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.AssemblyInfoInputs.cache
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.AssemblyInfo.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\bin\Debug\netstandard2.0\WaitingBus.pdb
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.favorite.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.home.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.locate.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.map.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.setting.xaml.g.cs
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.dll
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.pdb
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus\obj\Debug\netstandard2.0\WaitingBus.csprojResolveAssemblyReference.cache

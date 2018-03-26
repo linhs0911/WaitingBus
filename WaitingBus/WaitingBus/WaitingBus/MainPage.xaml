@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WaitingBus"
+             x:Class="WaitingBus.MainPage">
+    <local:home></local:home>
+    <local:locate></local:locate>
+    <local:MAP></local:MAP>
+    <local:favorite></local:favorite>
+    <local:setting></local:setting>
+</TabbedPage>

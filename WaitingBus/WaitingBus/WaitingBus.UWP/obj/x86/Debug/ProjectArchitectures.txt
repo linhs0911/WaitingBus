@@ -1,0 +1,1 @@
+C:\Users\stanl\Documents\code\WaitingBus\WaitingBus\WaitingBus.UWP\WaitingBus.UWP.csproj;x86
